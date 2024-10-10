@@ -1,0 +1,535 @@
+Skin_type,Sensitivity,Blood_group,Hyperpigmentation_type,Remedy,Remedy_ID
+Oily,Yes,A+,Sun_induced,"Apple cider vinegar and water toner: Mix 1 part apple cider vinegar with 3 parts water. Apply after cleansing. 
+Routine: Cleanse, tone, exfoliate 1-2x/week, apply the toner daily, moisturize.",1
+Oily,Yes,A-,Sun_induced,"Strawberry and yogurt mask: Blend strawberries with yogurt. Apply for 15 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",2
+Oily,Yes,B+,Sun_induced,"Avocado and honey mask: Mash avocado and mix with honey. Apply for 20 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",3
+Oily,Yes,B-,Sun_induced,"Aloe vera and chamomile gel: Mix aloe vera gel with brewed chamomile. Apply after cleansing. 
+Routine: Cleanse, tone, apply gel, moisturize.",4
+Oily,Yes,O+,Sun_induced,"Banana and yogurt face pack: Blend banana and yogurt. Apply for 15 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",5
+Oily,Yes,O-,Sun_induced,"Green tea and honey mask: Mix brewed green tea with honey. Apply for 20 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",6
+Oily,Yes,AB+,Sun_induced,"Papaya and honey mask: Blend ripe papaya with honey. Apply for 15 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",7
+Oily,Yes,AB-,Sun_induced,"Rice flour and rosewater paste: Mix rice flour with rosewater. Apply for 15 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",8
+Dry,Yes,A+,Sun_induced,"Coconut oil and sugar scrub: Mix coconut oil with sugar. Gently scrub, then rinse. 
+Routine: Cleanse, exfoliate 1-2x/week, apply scrub, moisturize.",9
+Dry,Yes,A-,Sun_induced,"Avocado and almond milk mask: Mash avocado and mix with almond milk. Apply for 20 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",10
+Dry,Yes,B+,Sun_induced,"Honey and oats mask: Mix honey with ground oats. Apply for 15 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",11
+Dry,Yes,B-,Sun_induced,"Olive oil and coffee grounds scrub: Mix olive oil with coffee grounds. Scrub gently, then rinse. 
+Routine: Cleanse, exfoliate 1-2x/week, apply scrub, moisturize.",12
+Dry,Yes,O+,Sun_induced,"Yogurt and oatmeal soothing mask: Mix yogurt with oatmeal. Apply for 20 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",13
+Dry,Yes,O-,Sun_induced,"Mango pulp and honey treatment: Blend mango pulp with honey. Apply for 15 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",14
+Dry,Yes,AB+,Sun_induced,"Shea butter and chamomile blend: Mix shea butter with chamomile oil. Apply after cleansing. 
+Routine: Cleanse, tone, apply blend, moisturize.",15
+Dry,Yes,AB-,Sun_induced,"Almond milk and honey pack: Mix almond milk with honey. Apply for 15 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",16
+Normal,Yes,A+,Sun_induced,"Aloe vera and green tea gel: Combine aloe vera with brewed green tea. Apply daily after cleansing. 
+Routine: Cleanse, tone, apply gel, moisturize.",17
+Normal,Yes,A-,Sun_induced,"Coconut milk and honey spray: Mix coconut milk with honey. Spray on face as needed. 
+Routine: Cleanse, tone, spray, moisturize.",18
+Normal,Yes,B+,Sun_induced,"Olive oil and chamomile toner: Mix olive oil with brewed chamomile. Apply with cotton pad. 
+Routine: Cleanse, tone, apply toner, moisturize.",19
+Normal,Yes,B-,Sun_induced,"Grapefruit and sugar scrub: Mix grapefruit juice with sugar. Scrub gently, then rinse. 
+Routine: Cleanse, exfoliate 1-2x/week, apply scrub, moisturize.",20
+Normal,Yes,O+,Sun_induced,"Lemon and baking soda paste: Mix lemon juice with baking soda. Apply for 10 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",21
+Normal,Yes,O-,Sun_induced,"Papaya and coconut oil mask: Blend papaya with coconut oil. Apply for 20 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",22
+Normal,Yes,AB+,Sun_induced,"Honey and aloe vera gel: Mix honey with aloe vera gel. Apply daily. 
+Routine: Cleanse, tone, apply gel, moisturize.",23
+Normal,Yes,AB-,Sun_induced,"Cucumber and yogurt mask: Blend cucumber with yogurt. Apply for 15 mins, then rinse. 
+Routine: Cleanse, tone, mask 1-2x/week, moisturize.",24
+Normal,Yes,O-,Post_inflammatory,"Honey and lavender oil: Mix honey with lavender oil. Apply to affected areas. 
+Routine: Cleanse, apply mixture, moisturize.",25
+Normal,Yes,AB+,Post_inflammatory,"Aloe vera and chamomile mix: Combine aloe vera with chamomile tea. Apply to affected areas. 
+Routine: Cleanse, apply mixture, moisturize.",26
+Normal,Yes,AB-,Post_inflammatory,"Olive oil and lavender treatment: Mix olive oil with lavender essential oil. Apply to affected areas. 
+Routine: Cleanse, apply mixture, moisturize.",27
+Oily,Yes,A+,Hormonal,"Mango pulp and honey mask: Blend ripe mango with honey. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",28
+Oily,Yes,A-,Hormonal,"Coconut milk and turmeric paste: Mix coconut milk with turmeric powder. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",29
+Oily,Yes,B+,Hormonal,"Rice flour and honey scrub: Mix rice flour with honey. Gently scrub, then rinse. 
+ Routine: Cleanse, exfoliate 1-2x/week, apply scrub, moisturize.",30
+Oily,Yes,B-,Hormonal,"Pineapple juice and yogurt mask: Mix pineapple juice with yogurt. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",31
+Oily,Yes,O+,Hormonal,"Chamomile tea and aloe vera gel: Mix brewed chamomile tea with aloe vera. Apply to affected areas. 
+ Routine: Cleanse, apply gel, moisturize.",32
+Oily,Yes,O-,Hormonal,"Cucumber and mint juice: Blend cucumber with mint leaves. Apply to the face. 
+ Routine: Cleanse, tone, apply juice, moisturize.",33
+Oily,Yes,AB+,Hormonal,"Blueberry and yogurt mask: Blend blueberries with yogurt. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",34
+Oily,Yes,AB-,Hormonal,"Papaya and honey scrub: Mash papaya and mix with honey. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",35
+Dry,Yes,A+,Hormonal,"Olive oil and brown sugar scrub: Mix olive oil with brown sugar. Gently scrub, then rinse. 
+ Routine: Cleanse, exfoliate 1-2x/week, apply scrub, moisturize.",36
+Dry,Yes,A-,Hormonal,"Honey and almond milk mask: Mix honey with almond milk. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",37
+Dry,Yes,B+,Hormonal,"Avocado and coconut oil mask: Blend avocado with coconut oil. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",38
+Dry,Yes,B-,Hormonal,"Banana and yogurt pack: Mash banana and mix with yogurt. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",39
+Dry,Yes,O+,Hormonal,"Honey and chamomile tea: Mix honey with brewed chamomile. Apply to affected areas. 
+ Routine: Cleanse, apply mixture, moisturize.",40
+Dry,Yes,O-,Hormonal,"Coconut oil and vanilla extract: Mix coconut oil with a few drops of vanilla. Apply after cleansing. 
+ Routine: Cleanse, apply mixture, moisturize.",41
+Dry,Yes,AB+,Hormonal,"Shea butter and honey blend: Mix shea butter with honey. Apply daily. 
+ Routine: Cleanse, tone, apply blend, moisturize.",42
+Dry,Yes,AB-,Hormonal,"Hibiscus tea and honey compress: Brew hibiscus tea, cool it, and soak a cloth. Apply as a compress. 
+ Routine: Cleanse, apply compress, moisturize.",43
+Normal,Yes,A+,Hormonal,"Jojoba oil and aloe vera gel: Mix jojoba oil with aloe vera gel. Apply daily. 
+ Routine: Cleanse, tone, apply gel, moisturize.",44
+Normal,Yes,A-,Hormonal,"Carrot and honey face pack: Blend carrot with honey. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",45
+Normal,Yes,B+,Hormonal,"Grape seed oil and lavender oil mixture: Mix grape seed oil with lavender oil. Apply to face. 
+ Routine: Cleanse, tone, apply oil, moisturize.",46
+Normal,Yes,B-,Hormonal,"Coconut milk and honey face pack: Mix coconut milk with honey. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",47
+Normal,Yes,O+,Hormonal,"Rice flour and green tea paste: Mix rice flour with brewed green tea. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",48
+Normal,Yes,O-,Hormonal,"Almond oil and coconut milk face wash: Mix almond oil with coconut milk. Use as a gentle face wash. 
+ Routine: Cleanse, tone, apply face wash, moisturize.",49
+Normal,Yes,AB+,Hormonal,"Chamomile tea and honey spray: Brew chamomile tea, cool it, and use as a spray. 
+ Routine: Cleanse, tone, spray, moisturize.",50
+Normal,Yes,AB-,Hormonal,"Pomegranate and yogurt mask: Mix pomegranate juice with yogurt. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",51
+Oily,Yes,A+,Age_spots,"Strawberry and honey mask: Blend strawberries with honey. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",52
+Oily,Yes,A-,Age_spots,"Banana and oatmeal mask: Mash banana and mix with oatmeal. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",53
+Oily,Yes,B+,Age_spots,"Coconut milk and almond oil: Mix coconut milk with almond oil. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",54
+Oily,Yes,B-,Age_spots,"Pumpkin and honey mask: Blend cooked pumpkin with honey. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",55
+Oily,Yes,O+,Age_spots,"Kiwi and yogurt mask: Blend kiwi with yogurt. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",56
+Oily,Yes,O-,Age_spots,"Honey and brown sugar scrub: Mix honey with brown sugar. Gently scrub, then rinse. 
+ Routine: Cleanse, exfoliate 1-2x/week, apply scrub, moisturize.",57
+Oily,Yes,AB+,Age_spots,"Basil and yogurt paste: Blend basil leaves with yogurt. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",58
+Oily,Yes,AB-,Age_spots,"Avocado and honey mask: Mash avocado and mix with honey. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",59
+Dry,Yes,A+,Age_spots,"Coconut milk and almond flour scrub: Mix coconut milk with almond flour. Gently scrub, then rinse. 
+ Routine: Cleanse, exfoliate 1-2x/week, apply scrub, moisturize.",60
+Dry,Yes,A-,Age_spots,"Avocado and honey face pack: Blend avocado with honey. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",61
+Dry,Yes,B+,Age_spots,"Honey and green tea mask: Mix honey with brewed green tea. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",62
+Dry,Yes,B-,Age_spots,"Pineapple juice and sugar scrub: Mix pineapple juice with sugar. Gently scrub, then rinse. 
+ Routine: Cleanse, exfoliate 1-2x/week, apply scrub, moisturize.",63
+Dry,Yes,O+,Age_spots,"Peach and honey mask: Mash peach and mix with honey. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",64
+Dry,Yes,O-,Age_spots,"Cucumber and mint paste: Blend cucumber with mint. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",65
+Dry,Yes,AB+,Age_spots,"Olive oil and honey blend: Mix olive oil with honey. Apply daily. 
+ Routine: Cleanse, apply blend, moisturize.",66
+Dry,Yes,AB-,Age_spots,"Hibiscus flower paste: Blend hibiscus flowers with water. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",67
+Normal,Yes,A+,Age_spots,"Mango and honey mask: Blend ripe mango with honey. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",68
+Normal,Yes,A-,Age_spots,"Papaya and aloe vera gel: Blend papaya with aloe vera. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",69
+Normal,Yes,B+,Age_spots,"Rosewater and oatmeal mask: Mix rosewater with oatmeal. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",70
+Normal,Yes,B-,Age_spots,"Coconut oil and papaya scrub: Mix coconut oil with mashed papaya. Gently scrub, then rinse. 
+ Routine: Cleanse, exfoliate 1-2x/week, apply scrub, moisturize.",71
+Normal,Yes,O+,Age_spots,"Pineapple and honey face pack: Blend pineapple with honey. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",72
+Normal,Yes,O-,Age_spots,"Carrot and honey mask: Blend carrot with honey. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",73
+Normal,Yes,AB+,Age_spots,"Cucumber and aloe vera gel: Mix cucumber with aloe vera gel. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",74
+Normal,Yes,AB-,Age_spots,"Strawberry and honey mixture: Blend strawberries with honey. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, tone, mask 1-2x/week, moisturize.",75
+Oily,No,A+,Sun_induced,"Green tea and lemon juice toner: Brew green tea, mix with lemon juice. Apply daily with a cotton pad. 
+ Routine: Cleanse, tone, moisturize daily. Exfoliate 1-2x/week.",76
+Oily,No,A-,Sun_induced,"Cucumber and yogurt mask: Blend cucumber, mix with yogurt. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",77
+Oily,No,B+,Sun_induced,"Aloe vera and rosewater gel: Mix aloe vera gel with rosewater. Apply as needed. 
+ Routine: Cleanse, apply gel daily, moisturize.",78
+Oily,No,B-,Sun_induced,"Apple cider vinegar diluted with water: Mix equal parts. Apply with a cotton ball daily. 
+ Routine: Cleanse, tone, moisturize daily.",79
+Oily,No,O+,Sun_induced,"Turmeric and honey paste: Mix turmeric powder with honey. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate.",80
+Oily,No,O-,Sun_induced,"Baking soda and water scrub: Mix baking soda with water. Gently scrub, then rinse. 
+ Routine: Cleanse, exfoliate 1-2x/week, moisturize.",81
+Oily,No,AB+,Sun_induced,"Fenugreek seed powder and yogurt: Soak seeds overnight, blend with yogurt. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, moisturize.",82
+Oily,No,AB-,Sun_induced,"Tomato and honey mask: Blend tomato with honey. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, moisturize.",83
+Dry,No,A+,Sun_induced,"Coconut oil and almond oil blend: Mix equal parts and massage into skin daily. 
+ Routine: Cleanse, apply oil daily, hydrate.",84
+Dry,No,A-,Sun_induced,"Avocado and honey moisturizing mask: Blend avocado with honey. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, moisturize daily.",85
+Dry,No,B+,Sun_induced,"Oatmeal and milk scrub: Mix oatmeal with milk. Gently scrub, then rinse. 
+ Routine: Cleanse, exfoliate 1-2x/week, moisturize.",86
+Dry,No,B-,Sun_induced,"Honey and lemon juice treatment: Mix honey with lemon juice. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",87
+Dry,No,O+,Sun_induced,"Shea butter and essential oil mix: Mix shea butter with your favorite essential oil. Apply daily. 
+ Routine: Cleanse, apply mix daily, moisturize.",88
+Dry,No,O-,Sun_induced,"Papaya and yogurt brightening mask: Blend papaya with yogurt. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",89
+Dry,No,AB+,Sun_induced,"Chamomile tea and honey compress: Brew chamomile tea, cool, mix with honey. Apply as a compress. 
+ Routine: Cleanse, apply compress 1-2x/week, moisturize.",90
+Dry,No,AB-,Sun_induced,"Olive oil and cucumber slices: Apply cucumber slices dipped in olive oil on face. Leave for 15 mins, then rinse. 
+ Routine: Cleanse, apply daily, hydrate.",91
+Normal,No,A+,Sun_induced,"Rosewater and glycerin spray: Mix rosewater with glycerin in a spray bottle. Use daily. 
+ Routine: Cleanse, tone with spray, moisturize.",92
+Normal,No,A-,Sun_induced,"Carrot juice and honey mask: Mix carrot juice with honey. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",93
+Normal,No,B+,Sun_induced,"Grapeseed oil and aloe vera blend: Mix grapeseed oil with aloe vera. Apply daily. 
+ Routine: Cleanse, apply blend daily, moisturize.",94
+Normal,No,B-,Sun_induced,"Green tea and honey face wash: Brew green tea, mix with honey. Use as face wash daily. 
+ Routine: Cleanse daily, exfoliate 1-2x/week.",95
+Normal,No,O+,Sun_induced,"Rice flour and lemon juice scrub: Mix rice flour with lemon juice. Gently scrub, then rinse. 
+ Routine: Cleanse, exfoliate 1-2x/week, moisturize.",96
+Normal,No,O-,Sun_induced,"Beetroot juice and yogurt mask: Blend beetroot with yogurt. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",97
+Normal,No,AB+,Sun_induced,"Pomegranate juice and honey mask: Mix pomegranate juice with honey. Apply for 15 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, moisturize.",98
+Normal,No,AB-,Sun_induced,"Mint and cucumber cooling gel: Blend mint with cucumber. Apply for 20 mins, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",99
+Oily,No,A+,Post_inflammatory,"Licorice root extract and aloe vera gel: Mix licorice extract with aloe vera gel. Apply daily. 
+ Routine: Cleanse, apply gel daily, moisturize.",100
+Oily,No,A-,Post_inflammatory,"Honey and green tea mask: Mix honey with cooled green tea. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",101
+Oily,No,B+,Post_inflammatory,"Papaya and yogurt brightening mask: Blend ripe papaya with yogurt. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, moisturize.",102
+Oily,No,B-,Post_inflammatory,"Neem leaf paste and turmeric: Blend neem leaves with turmeric. Apply for 15 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate.",103
+Oily,No,O+,Post_inflammatory,"Rice water and honey treatment: Use rice water mixed with honey as a toner. Apply daily. 
+ Routine: Cleanse, tone with rice water daily, moisturize.",104
+Oily,No,O-,Post_inflammatory,"Sandalwood powder and rosewater mix: Mix sandalwood powder with rosewater. Apply as a mask for 20 minutes. 
+ Routine: Cleanse, mask 1-2x/week, moisturize.",105
+Oily,No,AB+,Post_inflammatory,"Beetroot juice and yogurt mask: Mix beetroot juice with yogurt. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",106
+Oily,No,AB-,Post_inflammatory,"Argan oil and frankincense oil blend: Mix equal parts and apply to affected areas. Use daily. 
+ Routine: Cleanse, apply blend daily, moisturize.",107
+Dry,No,A+,Post_inflammatory,"Coconut milk and honey mixture: Mix coconut milk with honey. Apply as a mask for 15 minutes. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",108
+Dry,No,A-,Post_inflammatory,"Avocado and oatmeal mask: Blend avocado with oatmeal. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, moisturize.",109
+Dry,No,B+,Post_inflammatory,"Chamomile tea and aloe vera gel: Brew chamomile tea, mix with aloe vera gel. Apply daily. 
+ Routine: Cleanse, apply gel daily, moisturize.",110
+Dry,No,B-,Post_inflammatory,"Olive oil and lemon juice mixture: Mix olive oil with lemon juice. Apply for 15 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate.",111
+Dry,No,O+,Post_inflammatory,"Shea butter and carrot oil blend: Mix shea butter with carrot oil. Apply daily. 
+ Routine: Cleanse, apply blend daily, moisturize.",112
+Dry,No,O-,Post_inflammatory,"Honey and mashed banana mask: Mash banana and mix with honey. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",113
+Dry,No,AB+,Post_inflammatory,"Almond oil and yogurt pack: Mix almond oil with yogurt. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, moisturize.",114
+Dry,No,AB-,Post_inflammatory,"Cucumber and mint cooling mask: Blend cucumber with mint. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",115
+Normal,No,A+,Post_inflammatory,"Papaya and honey exfoliating scrub: Blend papaya with honey and use as a scrub. 
+ Routine: Cleanse, scrub 1-2x/week, moisturize.",116
+Normal,No,A-,Post_inflammatory,"Rice flour and lemon juice treatment: Mix rice flour with lemon juice. Apply for 15 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate daily.",117
+Normal,No,B+,Post_inflammatory,"Pomegranate juice and honey mask: Mix pomegranate juice with honey. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, moisturize.",118
+Normal,No,B-,Post_inflammatory,"Green tea and aloe vera gel: Mix green tea with aloe vera gel. Apply daily. 
+ Routine: Cleanse, apply gel daily, moisturize.",119
+Normal,No,O+,Post_inflammatory,"Yogurt and oatmeal soothing mask: Mix yogurt with oatmeal. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate.",120
+Normal,No,O-,Post_inflammatory,"Jojoba oil and vitamin E blend: Mix jojoba oil with vitamin E oil. Apply daily. 
+ Routine: Cleanse, apply blend daily, moisturize.",121
+Normal,No,AB+,Post_inflammatory,"Orange peel powder and milk mask: Mix orange peel powder with milk. Apply for 20 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, hydrate.",122
+Normal,No,AB-,Post_inflammatory,"Carrot juice and honey face pack: Mix carrot juice with honey. Apply for 15 minutes, then rinse. 
+ Routine: Cleanse, mask 1-2x/week, moisturize.",123
+Oily,No,A+,Hormonal,"Green tea and honey face mask: Mix green tea with honey. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Use a gentle foaming cleanser to remove dirt and excess oil. 
+ 2. Mask: Apply 1-2 times a week for rejuvenation. 
+ 3. Moisturize: Use an oil-free moisturizer to keep skin hydrated without clogging pores. 
+ 4. Sunscreen: Apply a broad-spectrum SPF during the day.",124
+Oily,No,A-,Hormonal,"Turmeric and aloe vera gel: Mix turmeric with aloe vera gel. Apply for 15 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Start with a gentle cleanser to remove impurities. 
+ 2. Mask: Use the mask 1-2 times a week for brightening effects. 
+ 3. Hydrate: Apply a light, non-comedogenic moisturizer. 
+ 4. Sunscreen: Use sunscreen daily to prevent pigmentation.",125
+Oily,No,B+,Hormonal,"Lemon juice and sugar scrub: Mix lemon juice with sugar to make a scrub. Use 1-2 times a week. 
+ Routine: 
+ 1. Cleanse: Wash with a gentle cleanser. 
+ 2. Scrub: Exfoliate 1-2 times weekly to remove dead skin cells. 
+ 3. Moisturize: Follow with a lightweight moisturizer. 
+ 4. Sunscreen: Daily application of sunscreen to protect against UV damage.",126
+Oily,No,B-,Hormonal,"Neem oil and lavender essential oil blend: Mix neem oil with lavender oil. Apply to affected areas nightly. 
+ Routine: 
+ 1. Cleanse: Use a mild cleanser before bed. 
+ 2. Apply Blend: Massage the blend into affected areas nightly. 
+ 3. Hydrate: Apply a non-comedogenic moisturizer afterward. 
+ 4. Sunscreen: Morning application of sunscreen is essential.",127
+Oily,No,O+,Hormonal,"Clay mask with rosewater: Mix clay powder with rosewater. Apply for 15 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Wash face thoroughly. 
+ 2. Mask: Use the mask 1-2 times a week to absorb excess oil. 
+ 3. Moisturize: After rinsing, apply a suitable moisturizer. 
+ 4. Sunscreen: Use sunscreen daily.",128
+Oily,No,O-,Hormonal,"Apple cider vinegar and honey mixture: Mix equal parts and use as a toner. Apply daily. 
+ Routine: 
+ 1. Cleanse: Start with a gentle cleanser. 
+ 2. Tone: Apply the mixture daily with a cotton pad after cleansing. 
+ 3. Moisturize: Follow with a light moisturizer. 
+ 4. Sunscreen: Daily SPF application is crucial.",129
+Oily,No,AB+,Hormonal,"Fenugreek paste with yogurt: Blend fenugreek seeds and mix with yogurt. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Wash with a gentle cleanser. 
+ 2. Mask: Use 1-2 times a week for skin benefits. 
+ 3. Hydrate: Follow with a light moisturizer. 
+ 4. Sunscreen: Apply sunscreen to protect against sun exposure.",130
+Oily,No,AB-,Hormonal,"Charcoal mask with tea tree oil: Mix activated charcoal with tea tree oil. Apply for 15 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Cleanse with a mild face wash. 
+ 2. Mask: Use 1-2 times a week to detoxify skin. 
+ 3. Moisturize: Apply a non-comedogenic moisturizer after. 
+ 4. Sunscreen: Use daily SPF for protection.",131
+Dry,No,A+,Hormonal,"Coconut oil and jojoba oil blend: Mix equal parts and apply daily. 
+ Routine: 
+ 1. Cleanse: Use a hydrating cleanser. 
+ 2. Apply Blend: Massage blend onto face and neck daily. 
+ 3. Hydrate: Follow with a nourishing moisturizer. 
+ 4. Sunscreen: Apply sunscreen during the day.",132
+Dry,No,A-,Hormonal,"Avocado and honey moisturizing mask: Mash avocado and mix with honey. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Wash with a gentle cleanser. 
+ 2. Mask: Use 1-2 times a week for hydration. 
+ 3. Moisturize: Follow with a rich moisturizer. 
+ 4. Sunscreen: Daily SPF application is recommended.",133
+Dry,No,B+,Hormonal,"Shea butter and essential oil mixture: Blend shea butter with your favorite essential oil. Use daily. 
+ Routine: 
+ 1. Cleanse: Use a gentle hydrating cleanser. 
+ 2. Apply Mixture: Massage into skin daily, especially on dry areas. 
+ 3. Hydrate: Apply a moisturizer afterward. 
+ 4. Sunscreen: Apply sunscreen every morning.",134
+Dry,No,B-,Hormonal,"Cucumber and yogurt soothing mask: Blend cucumber with yogurt. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Start with a gentle cleanser. 
+ 2. Mask: Use 1-2 times a week for soothing effects. 
+ 3. Moisturize: Apply a hydrating cream after. 
+ 4. Sunscreen: Daily use of SPF is essential.",135
+Dry,No,O+,Hormonal,"Oatmeal and almond milk face scrub: Mix oatmeal with almond milk. Use as a scrub 1-2 times a week. 
+ Routine: 
+ 1. Cleanse: Use a gentle face wash. 
+ 2. Scrub: Exfoliate 1-2 times a week. 
+ 3. Hydrate: Apply moisturizer afterward. 
+ 4. Sunscreen: Use SPF daily.",136
+Dry,No,O-,Hormonal,"Honey and banana paste: Mash banana and mix with honey. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Wash with a mild cleanser. 
+ 2. Mask: Use 1-2 times a week for moisture. 
+ 3. Moisturize: Apply a nourishing moisturizer. 
+ 4. Sunscreen: Apply sunscreen every day.",137
+Dry,No,AB+,Hormonal,"Olive oil and lemon juice treatment: Mix olive oil with lemon juice. Apply to dry areas daily. 
+ Routine: 
+ 1. Cleanse: Start with a gentle cleanser. 
+ 2. Apply Treatment: Massage onto dry areas daily. 
+ 3. Hydrate: Follow with a rich moisturizer. 
+ 4. Sunscreen: Daily SPF is essential.",138
+Dry,No,AB-,Hormonal,"Chamomile tea and aloe vera gel: Brew chamomile tea, mix with aloe vera gel. Apply daily. 
+ Routine: 
+ 1. Cleanse: Use a gentle cleanser. 
+ 2. Apply Gel: Use the mixture daily for hydration. 
+ 3. Moisturize: Apply a moisturizer afterward. 
+ 4. Sunscreen: Daily SPF is necessary.",139
+Normal,No,A+,Hormonal,"Papaya and honey mask: Mash ripe papaya and mix with honey. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Use a gentle cleanser. 
+ 2. Mask: Apply 1-2 times a week for rejuvenation. 
+ 3. Moisturize: Use a light moisturizer. 
+ 4. Sunscreen: Apply sunscreen every day.",140
+Normal,No,A-,Hormonal,"Grape seed oil and vitamin E blend: Mix grape seed oil with vitamin E. Apply daily. 
+ Routine: 
+ 1. Cleanse: Use a gentle face wash. 
+ 2. Apply Blend: Massage blend onto skin daily. 
+ 3. Hydrate: Apply a light moisturizer after. 
+ 4. Sunscreen: Use sunscreen during the day.",141
+Normal,No,B+,Hormonal,"Rice flour and milk face mask: Mix rice flour with milk. Apply for 15 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Wash with a gentle cleanser. 
+ 2. Mask: Use 1-2 times a week for brightening. 
+ 3. Moisturize: Follow with a light moisturizer. 
+ 4. Sunscreen: Daily SPF is crucial.",142
+Normal,No,B-,Hormonal,"Pomegranate juice and honey blend: Mix pomegranate juice with honey. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Start with a gentle cleanser. 
+ 2. Mask: Use 1-2 times a week for revitalizing skin. 
+ 3. Hydrate: Apply a moisturizer afterward. 
+ 4. Sunscreen: Apply sunscreen daily.",143
+Normal,No,O+,Hormonal,"Beetroot juice and aloe vera mix: Blend beetroot juice with aloe vera. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Use a mild cleanser. 
+ 2. Mask: Apply 1-2 times a week for glow. 
+ 3. Moisturize: Use a light moisturizer after. 
+ 4. Sunscreen: Apply SPF daily.",144
+Normal,No,O-,Hormonal,"Green tea and lemon juice treatment: Brew green tea, mix with lemon juice. Use as a toner daily. 
+ Routine: 
+ 1. Cleanse: Start with a gentle cleanser. 
+ 2. Tone: Apply the mixture daily with a cotton pad after cleansing. 
+ 3. Moisturize: Use a light moisturizer afterward. 
+ 4. Sunscreen: Daily SPF application is essential.",145
+Normal,No,AB+,Hormonal,"Carrot juice and honey mask: Mix carrot juice with honey. Apply for 15 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Use a gentle cleanser. 
+ 2. Mask: Use 1-2 times a week for nourishment. 
+ 3. Hydrate: Apply a moisturizer after. 
+ 4. Sunscreen: Apply sunscreen every day.",146
+Normal,No,AB-,Hormonal,"Mint and yogurt cooling mask: Blend mint leaves with yogurt. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse: Wash with a gentle cleanser. 
+ 2. Mask: Use 1-2 times a week for cooling. 
+ 3. Moisturize: Follow with a light moisturizer. 
+ 4. Sunscreen: Daily application of SPF is recommended.",147
+Oily,No,A+,Age_spots,"Turmeric and lemon juice: Mix 1 tsp of turmeric powder with 1 tbsp of lemon juice. Apply for 20 minutes, then rinse with warm water. 
+ Routine: 
+ 1. Cleanse face with a gentle cleanser. 
+ 2. Apply the mask 2-3 times a week. 
+ 3. Follow with a moisturizer. 
+ 4. Use sunscreen daily.",148
+Oily,No,A-,Age_spots,"Aloe vera gel and vitamin E oil: Mix aloe vera gel with a few drops of vitamin E oil. Apply to age spots nightly. 
+ Routine: 
+ 1. Cleanse face and pat dry. 
+ 2. Apply the mixture nightly. 
+ 3. Moisturize as needed. 
+ 4. Use sunscreen during the day.",149
+Oily,No,B+,Age_spots,"Papaya and honey: Mash ripe papaya and mix with honey. Apply for 15-20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Moisturize after rinsing. 
+ 4. Apply sunscreen daily.",150
+Oily,No,B-,Age_spots,"Green tea and honey: Brew green tea, let it cool, then mix with honey. Apply for 15 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Apply the mask 1-2 times a week. 
+ 3. Follow with a moisturizer. 
+ 4. Use sunscreen.",151
+Oily,No,O+,Age_spots,"Tomato pulp and yogurt: Mix fresh tomato pulp with yogurt. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Moisturize afterward. 
+ 4. Apply sunscreen during the day.",152
+Oily,No,O-,Age_spots,"Rice flour and milk: Mix rice flour with milk to form a paste. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the scrub 1-2 times a week. 
+ 3. Moisturize after rinsing. 
+ 4. Use sunscreen.",153
+Oily,No,AB+,Age_spots,"Licorice extract and chamomile: Mix licorice extract with brewed chamomile tea. Apply for 15-20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Moisturize afterward. 
+ 4. Apply sunscreen.",154
+Oily,No,AB-,Age_spots,"Cucumber juice and mint leaves: Blend cucumber and mint leaves, strain the juice, and apply. Leave on for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the treatment 1-2 times a week. 
+ 3. Follow with moisturizer. 
+ 4. Apply sunscreen.",155
+Dry,No,A+,Age_spots,"Avocado and honey: Mash avocado and mix with honey. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Moisturize afterward. 
+ 4. Apply sunscreen daily.",156
+Dry,No,A-,Age_spots,"Oatmeal and yogurt: Mix oatmeal with yogurt to create a paste. Apply for 15-20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Follow with a moisturizer. 
+ 4. Use sunscreen.",157
+Dry,No,B+,Age_spots,"Banana and almond oil: Mash banana and mix with almond oil. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Moisturize afterward. 
+ 4. Apply sunscreen daily.",158
+Dry,No,B-,Age_spots,"Mango pulp and cream: Mash ripe mango and mix with cream. Apply for 15-20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Follow with moisturizer. 
+ 4. Apply sunscreen.",159
+Dry,No,O+,Age_spots,"Coconut oil and turmeric: Mix coconut oil with turmeric. Apply to affected areas overnight, rinse in the morning. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Apply mixture nightly. 
+ 3. Moisturize as needed. 
+ 4. Use sunscreen during the day.",160
+Dry,No,O-,Age_spots,"Honey and rose water: Mix honey with rose water. Apply to age spots for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the treatment 1-2 times a week. 
+ 3. Follow with a moisturizer. 
+ 4. Apply sunscreen daily.",161
+Dry,No,AB+,Age_spots,"Papaya and coconut milk: Mash papaya and mix with coconut milk. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Follow with moisturizer. 
+ 4. Apply sunscreen.",162
+Dry,No,AB-,Age_spots,"Shea butter and lemon juice: Mix shea butter with lemon juice. Apply to age spots for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the treatment 1-2 times a week. 
+ 3. Moisturize afterward. 
+ 4. Use sunscreen daily.",163
+Normal,No,A+,Age_spots,"Yogurt and honey: Mix yogurt with honey. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Follow with a moisturizer. 
+ 4. Apply sunscreen daily.",164
+Normal,No,A-,Age_spots,"Lemon juice and aloe vera: Mix lemon juice with aloe vera gel. Apply for 15-20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Moisturize afterward. 
+ 4. Use sunscreen.",165
+Normal,No,B+,Age_spots,"Cucumber and green tea: Blend cucumber with brewed green tea. Apply for 15-20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Follow with moisturizer. 
+ 4. Apply sunscreen.",166
+Normal,No,B-,Age_spots,"Baking soda and olive oil: Mix baking soda with olive oil to form a paste. Use as a scrub 1-2 times a week. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use scrub 1-2 times a week. 
+ 3. Moisturize afterward. 
+ 4. Apply sunscreen daily.",167
+Normal,No,O+,Age_spots,"Strawberry and buttermilk: Mash strawberries and mix with buttermilk. Apply for 15-20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Follow with moisturizer. 
+ 4. Apply sunscreen.",168
+Normal,No,O-,Age_spots,"Papaya and honey: Mash papaya and mix with honey. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Follow with a moisturizer. 
+ 4. Apply sunscreen daily.",169
+Normal,No,AB+,Age_spots,"Carrot puree and coconut milk: Blend cooked carrots and mix with coconut milk. Apply for 20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Follow with moisturizer. 
+ 4. Apply sunscreen daily.",170
+Normal,No,AB-,Age_spots,"Chamomile tea and honey: Brew chamomile tea, let it cool, and mix with honey. Apply for 15-20 minutes, then rinse. 
+ Routine: 
+ 1. Cleanse face. 
+ 2. Use the mask 1-2 times a week. 
+ 3. Moisturize afterward. 
+ 4. Apply sunscreen daily.",171
